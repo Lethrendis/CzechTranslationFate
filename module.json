@@ -1,0 +1,27 @@
+{
+  "id": "czechtranslationfate",
+  "title": "CzechTranslationFate",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "description": "Český překlad Fate Core Official 4.7.12c.",
+  "authors": [
+    {
+      "name": "Lethrendis",
+      "discord": "Lethrendis",
+      "url": "https://github.com/Lethrendis"    
+    }
+  ],
+  "languages": [
+    {
+      "lang": "cs",
+      "name": "Čeština",
+      "path": "lang/cs.json"
+    }
+  ],
+  "url": "https://github.com/Lethrendis/CzechTranslationFate",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationFate/main/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationFate/archive/refs/heads/main.zip"
+}
