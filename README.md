@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro Fate Core Official verze 4.7.12c. O
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://github.com/Lethrendis/CzechTranslationFate
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationFate/main/module.json
 ```
 
 ## Autor
