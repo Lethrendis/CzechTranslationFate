@@ -21,7 +21,7 @@
       "path": "lang/cs.json"
     }
   ],
-  "url": "https://github.com/Lethrendis/CzechTranslationFate",
+  "url": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationFate/main/module.json",
   "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationFate/main/module.json",
   "download": "https://github.com/Lethrendis/CzechTranslationFate/archive/refs/heads/main.zip"
 }
