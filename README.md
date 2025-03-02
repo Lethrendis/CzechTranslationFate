@@ -1,5 +1,5 @@
 
-# CzechDnD4.1.x
+# CzechFoundry
 
 Czech translation of Fate Core Official version 4.7.12c.
 
