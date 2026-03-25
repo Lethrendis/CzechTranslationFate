@@ -1,12 +1,12 @@
 {
   "id": "czechtranslationfate",
   "title": "CzechTranslationFate",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "12.331",
-    "verified": "12.331"
+    "verified": "13.351"
   },
-  "description": "Český překlad Fate Core Official 4.7.12c.",
+  "description": "Český překlad Fate Core Official 4.7.13.6.",
   "authors": [
     {
       "name": "Lethrendis",
